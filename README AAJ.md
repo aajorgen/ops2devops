@@ -7,3 +7,4 @@ A training focused on helping the Ops persona, who is new to DevOps technologies
 ## Pre requirements for the Student, to be completed prior to class
 
 - [Github.com](www.github.com) account
+xcvxcv
